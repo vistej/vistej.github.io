@@ -107,3 +107,21 @@ em {
 .section-content {
   margin: 10px;
 }
+
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+
+  .left {
+    margin-top: 50px;
+  }
+
+  .right {
+    margin: 10px 20px 10px 20px;
+  }
+}
