@@ -19,6 +19,7 @@ h2,
 h3,
 h4 {
   color: #fff;
+  font-variant: small-caps;
 }
 
 a {
@@ -28,6 +29,10 @@ a {
 
 a:hover {
   color: #999;
+}
+
+em {
+  color: #fff;
 }
 
 .container {
@@ -49,6 +54,9 @@ a:hover {
   flex: 2;
   display: flex;
   flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin: 100px;
 }
 
 .left img {
@@ -59,11 +67,41 @@ a:hover {
 }
 .name {
   margin-bottom: 20px;
-  font-variant: small-caps;
+}
+
+.name h1 {
+  margin: 5px;
+}
+
+.location {
+  display: inline-block;
+  margin: 5px;
 }
 
 .links a {
   display: inline-block;
   margin: 10px;
   cursor: pointer;
+}
+
+section {
+  margin: 20px;
+}
+
+.section-title h3,
+em {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.section-title h3:hover {
+  text-decoration: underline;
+  color: #00ffff;
+}
+
+.section-title {
+  margin: 10px;
+}
+.section-content {
+  margin: 10px;
 }
