@@ -106,6 +106,7 @@ em {
 }
 .section-content {
   margin: 10px;
+  text-align: justify;
 }
 
 @media (max-width: 768px) {
