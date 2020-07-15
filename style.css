@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+  color: #999;
+  font-family: 'roboto', Helvetica, sans-serif;
+  line-height: 1.5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #fff;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #999;
+}
+
+em {
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  flex: 1;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.right {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin: 100px;
+}
+
+.left img {
+  width: 200px;
+  /* border-radius: 50%; */
+  border: solid;
+  margin-bottom: 20px;
+}
+.name {
+  margin-bottom: 20px;
+}
+
+.name h1 {
+  margin: 5px;
+}
+
+.location {
+  display: inline-block;
+  margin: 5px;
+}
+
+.links a {
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+}
+
+section {
+  margin: 20px;
+}
+
+.section-title h3,
+em {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.section-title h3:hover {
+  text-decoration: underline;
+  color: #00ffff;
+}
+
+.section-title {
+  margin: 10px;
+}
+.section-content {
+  margin: 10px;
+  text-align: justify;
+}
+
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+
+  .left {
+    margin-top: 50px;
+  }
+
+  .right {
+    margin: 10px 20px 10px 20px;
+  }
+}
