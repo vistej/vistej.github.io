@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.3281a819.chunk.js",
-    "main.js.map": "/static/js/main.3281a819.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8cc3ca45.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8cc3ca45.js.map",
-    "static/js/2.9afbd95a.chunk.js": "/static/js/2.9afbd95a.chunk.js",
-    "static/js/2.9afbd95a.chunk.js.map": "/static/js/2.9afbd95a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e0bc93d93e367d5c34c2455e1849a7cd.js": "/precache-manifest.e0bc93d93e367d5c34c2455e1849a7cd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9afbd95a.chunk.js.LICENSE.txt": "/static/js/2.9afbd95a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/vishnu-teja.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vishnu-teja.github.io/static/js/main.ebbed161.chunk.js",
+    "main.js.map": "/vishnu-teja.github.io/static/js/main.ebbed161.chunk.js.map",
+    "runtime-main.js": "/vishnu-teja.github.io/static/js/runtime-main.b53fa567.js",
+    "runtime-main.js.map": "/vishnu-teja.github.io/static/js/runtime-main.b53fa567.js.map",
+    "static/js/2.9afbd95a.chunk.js": "/vishnu-teja.github.io/static/js/2.9afbd95a.chunk.js",
+    "static/js/2.9afbd95a.chunk.js.map": "/vishnu-teja.github.io/static/js/2.9afbd95a.chunk.js.map",
+    "index.html": "/vishnu-teja.github.io/index.html",
+    "precache-manifest.98a0eaef231ce156a7191ff65c8a42da.js": "/vishnu-teja.github.io/precache-manifest.98a0eaef231ce156a7191ff65c8a42da.js",
+    "service-worker.js": "/vishnu-teja.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vishnu-teja.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9afbd95a.chunk.js.LICENSE.txt": "/vishnu-teja.github.io/static/js/2.9afbd95a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vishnu-teja.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cc3ca45.js",
+    "static/js/runtime-main.b53fa567.js",
     "static/js/2.9afbd95a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3281a819.chunk.js"
+    "static/js/main.ebbed161.chunk.js"
   ]
 }
