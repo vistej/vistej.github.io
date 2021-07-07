@@ -1,3 +1,3 @@
-# Vishnu Teja Profile
+# My Profile
 
-Vishnu Teja's profile repo which is published [here](https://vishnu-teja.github.io/)
+Accees the site [here](https://vistej.github.io/)
