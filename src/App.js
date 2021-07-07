@@ -1,14 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Page under construction
-        </p>
+        <h3>Site under construction</h3>
+        <img src={'https://media.giphy.com/media/eK74RBKoSO2K4/source.gif'} alt="House drinking coffee" />
       </header>
     </div>
   );
