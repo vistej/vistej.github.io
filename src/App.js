@@ -62,11 +62,11 @@ function App() {
 
       {/* Hero Section */}
       <section id='home' className='py-20 px-4'>
-        <div className='max-w-4xl mx-auto text-center animate-fade-in'>
-          <h1 className='text-5xl md:text-7xl font-bold mb-6 font-poppins'>
+        <div className='max-w-5xl mx-auto text-center animate-fade-in'>
+          <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-6 font-poppins'>
             Hi, I'm <span className='text-accent-cobalt'>Vishnu</span>
           </h1>
-          <p className='text-xl md:text-2xl text-gray-300 mb-8 font-inter whitespace-nowrap'>
+          <p className='text-base sm:text-lg md:text-xl lg:text-2xl text-gray-300 mb-8 font-inter leading-relaxed'>
             Full-Stack Engineer with 5+ years of experience building scalable
             web applications
           </p>
