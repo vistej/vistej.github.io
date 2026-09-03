@@ -1,0 +1,382 @@
+{
+  "personal": {
+    "name": "Vishnu Paturu",
+    "title": "Senior Software Engineer",
+    "headline": "Building scalable web platforms, cloud microservices, and autonomous AI systems",
+    "location": "Bellevue, WA",
+    "email": "vishnu.paturu@gmail.com",
+    "socials": {
+      "github": "https://github.com/vistej",
+      "linkedin": "https://linkedin.com/in/vistej"
+    },
+    "bio": "I build resilient platforms where product engineering, cloud systems, and AI-native tooling meet—turning complex workflows into dependable experiences."
+  },
+  "skills": {
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "C#",
+      "Python",
+      "SQL",
+      "HTML5",
+      "CSS3"
+    ],
+    "frontend": [
+      "React",
+      "Next.js",
+      "Lit",
+      "Web Components",
+      "Storybook",
+      "Angular",
+      "Redux",
+      "Tailwind CSS",
+      "Formik",
+      "AG Grid"
+    ],
+    "backend": [
+      ".NET Core",
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "GraphQL",
+      "AEM"
+    ],
+    "cloudDevOps": [
+      "Microsoft Azure",
+      "Azure Monitor",
+      "Application Insights",
+      "Azure AI",
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "Vite",
+      "Webpack",
+      "Git"
+    ],
+    "aiMachineLearning": [
+      "Model Context Protocol (MCP)",
+      "LLM Agents",
+      "Autonomous Harnesses",
+      "PyTorch",
+      "TensorFlow",
+      "RAG",
+      "FAISS",
+      "CLIP",
+      "YOLOv8",
+      "OpenCV"
+    ],
+    "testingQuality": [
+      "Playwright",
+      "Cypress",
+      "Jest",
+      "React Testing Library",
+      "WCAG (a11y)"
+    ],
+    "architecture": [
+      "Micro-frontends (Webpack Module Federation)",
+      "Microservices",
+      "System Design",
+      "Observability & SRE",
+      "Design Systems"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "LTM",
+      "client": "Microsoft",
+      "location": "Bellevue, WA",
+      "startDate": "2025-09",
+      "featured": true,
+      "summary": "Driving system architecture, technical design, code reviews, client communication, and DRI live-site reliability for Microsoft, while coordinating technical execution across 5+ engineers.",
+      "achievements": [
+        "Architected a fully autonomous agentic harness pipeline featuring a 3-level hierarchical orchestrator and specialized subagents that automates component delivery from Figma MCP token extraction to code generation, unit/interactive testing with Playwright, a11y compliance, and automated PR creation with verification reports, accelerating velocity by 50%+ across 150+ components.",
+        "Engineered self-healing automated code review and fix loops across multi-agent execution tiers, autonomously diagnosing and resolving build, linting, and accessibility regressions before PR submission.",
+        "Led full-stack engineering of the AICC (AI Content Composer) platform across React, .NET Core, and AEM, using Azure AI for document layout parsing and Azure Monitor for telemetry, reducing page creation turnaround from 1 to 2 days to minutes.",
+        "Built and published a plug-and-play Lit web component library (150+ reusable components) as an internal npm package documented in Storybook, standardizing UI patterns and cutting cross-functional integration time by 30%.",
+        "Drove system architecture, code reviews, and Designated Responsible Individual (DRI) on-call monitoring, maintaining 99.9% uptime for internal authoring tools."
+      ],
+      "technologies": [
+        "TypeScript",
+        "Lit",
+        "React",
+        ".NET Core",
+        "Figma MCP",
+        "Claude Agents",
+        "Azure AI",
+        "Azure Monitor",
+        "Playwright",
+        "Storybook",
+        "AEM"
+      ]
+    },
+    {
+      "role": "Freelance Software Engineer",
+      "company": "Outlier AI",
+      "location": "Remote",
+      "startDate": "2025-03",
+      "endDate": "2025-09",
+      "featured": true,
+      "summary": "Contributed to foundation AI model evaluation, training dataset curation, and containerized benchmarking environments.",
+      "achievements": [
+        "Authored 200+ structured algorithmic solutions in JavaScript and Python used as training and benchmark evaluation datasets for foundation AI models, analyzing model fine-tuning and coding capabilities.",
+        "Built 40+ reproducible Docker container environments for AI models to autonomously reproduce, debug, and resolve complex issues in open-source repositories."
+      ],
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "Docker",
+        "LLM Evaluation",
+        "Benchmarking"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Happiest Minds Technologies",
+      "location": "Bangalore, India",
+      "startDate": "2021-10",
+      "endDate": "2022-12",
+      "featured": true,
+      "summary": "Delivered scalable full-stack web applications for enterprise clients (including CBRE) and internal operational platforms.",
+      "achievements": [
+        "Led development of a scalable project tracking platform using Next.js, Node.js / Express.js, GraphQL, and PostgreSQL, integrating CI/CD pipelines to deploy across environments with real-time visibility for 50+ active client projects.",
+        "Built a schema-driven incident management portal for CBRE across React, Redux, Formik, .NET, and Azure, enabling non-technical administrators to configure dynamic workplace incident forms.",
+        "Optimized React web application performance through code modularization, lazy loading, and memoization, cutting page load time by 4s and boosting Lighthouse scores to 90+.",
+        "Implemented automated unit, component, and integration testing suites with Jest, React Testing Library, and Cypress, expanding test coverage by 28% and reducing QA release cycles by 40%."
+      ],
+      "technologies": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "GraphQL",
+        "PostgreSQL",
+        ".NET",
+        "Azure",
+        "Jest",
+        "Cypress"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "VRIZE Inc.",
+      "location": "Bangalore, India",
+      "startDate": "2021-03",
+      "endDate": "2021-09",
+      "summary": "Built high-traffic web consumer features and secure checkout integrations for US enterprise brands.",
+      "achievements": [
+        "Delivered interactive React menu components for Tropical Smoothie Cafe, increasing order-funnel user engagement by 15% through integrated Google Analytics event tracking.",
+        "Integrated ID.me OAuth-based identity verification into Spoonflower's React + Ruby on Rails checkout flow, securing promotional eligibility and curbing promotion abuse by 30%."
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "OAuth",
+        "REST APIs",
+        "Google Analytics",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Mindtree",
+      "client": "Procter & Gamble (P&G)",
+      "location": "Bangalore, India",
+      "startDate": "2018-02",
+      "endDate": "2021-03",
+      "summary": "Advanced from early-career engineer to senior contributor across a 45-person distributed engineering team building P&G's global Trade Promotion Management platform.",
+      "achievements": [
+        "Designed .NET microservices for distributed KPI calculations across 1,000+ SKUs, instrumented with Azure Monitor for API health tracking and production debugging, reducing report generation turnaround from hours to minutes.",
+        "Modernized frontend architecture with Angular and AG Grid, migrating a legacy monolith to a micro-frontend architecture using Webpack Module Federation and eliminating code duplication across 5+ regional applications.",
+        "Optimized high-volume financial dashboards using Service Workers and selective API response caching, reducing Time-to-Interactive (TTI) by 3s under peak enterprise loads.",
+        "Co-led feature planning with business and QA leads, improved release stability by 25%, and mentored 5 junior engineers through structured onboarding and code reviews."
+      ],
+      "technologies": [
+        "C#",
+        ".NET Framework",
+        "Angular",
+        "AG Grid",
+        "Webpack Module Federation",
+        "Microservices",
+        "Azure Monitor",
+        "Service Workers"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "autonomous-agentic-pipeline",
+      "title": "Autonomous Agentic Harness Pipeline",
+      "category": "AI Developer Tooling",
+      "featured": true,
+      "description": "A 3-level hierarchical multi-agent harness pipeline that automates end-to-end component engineering from design to production pull request.",
+      "highlights": [
+        "Automates Figma design token extraction, component development, Playwright interactive tests, and a11y compliance",
+        "Built self-healing review and fix loops resolving build and lint regressions before PR submission",
+        "Accelerated component delivery velocity by 50%+ across 150+ production components"
+      ],
+      "technologies": [
+        "Figma MCP",
+        "Claude Agents",
+        "TypeScript",
+        "Playwright",
+        "GitHub Copilot",
+        "Lit",
+        "WCAG"
+      ],
+      "status": "private",
+      "linkLabel": "Enterprise system",
+      "links": {
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "id": "aicc-platform",
+      "title": "AICC - AI Content Composer",
+      "category": "Full-Stack & Cloud",
+      "featured": true,
+      "description": "An enterprise content generation and layout extraction platform bridging Microsoft Word documents with Adobe Experience Manager (AEM) publishing.",
+      "highlights": [
+        "Integrated Azure AI for automated document layout parsing and structure normalization",
+        "Built real-time telemetry and pipeline observability using Azure Monitor and Application Insights",
+        "Cut end-to-end enterprise page creation time from 1 to 2 days down to minutes"
+      ],
+      "technologies": [
+        "React",
+        ".NET Core",
+        "Azure AI",
+        "Azure Monitor",
+        "AEM",
+        "TypeScript"
+      ],
+      "status": "private",
+      "linkLabel": "Enterprise platform",
+      "links": {
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "id": "lit-design-system",
+      "title": "Enterprise Web Component Design System",
+      "category": "Frontend Platform",
+      "featured": true,
+      "description": "A framework-agnostic, plug-and-play web component library published as an internal npm package for cross-team enterprise UI standardization.",
+      "highlights": [
+        "Built 150+ production components using Lit and Shadow DOM to guarantee zero CSS collisions across host apps",
+        "Comprehensive interactive documentation in Storybook with accessibility test suites",
+        "Reduced cross-functional frontend integration overhead by 30%"
+      ],
+      "technologies": [
+        "Lit",
+        "Web Components",
+        "Storybook",
+        "npm",
+        "TypeScript",
+        "Shadow DOM",
+        "WCAG"
+      ],
+      "status": "private",
+      "linkLabel": "Internal design system",
+      "links": {
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "id": "vqa-rag-chatbot",
+      "title": "Multimodal VQA RAG Chatbot",
+      "category": "Academic AI/ML Research",
+      "featured": true,
+      "description": "A multimodal Retrieval-Augmented Generation system enabling zero-shot question answering over complex visual scenes without retraining.",
+      "highlights": [
+        "Combined OpenAI CLIP visual embeddings with external knowledge graphs",
+        "Indexed vectors in a FAISS database achieving sub-50ms cosine similarity search across 100k+ chunks",
+        "Evaluated on OK-VQA benchmarks demonstrating robust zero-shot multi-hop reasoning"
+      ],
+      "technologies": [
+        "TensorFlow",
+        "CLIP",
+        "FAISS",
+        "RAG",
+        "Python",
+        "Vector Databases"
+      ],
+      "status": "case-study",
+      "linkLabel": "Academic research",
+      "links": {
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "id": "ad-annotations-pipeline",
+      "title": "Semantic Video Segmentation Pipeline",
+      "category": "Computer Vision & AI",
+      "featured": false,
+      "description": "An automated computer vision pipeline for zero-shot object detection and segmentation across historical video archives.",
+      "highlights": [
+        "Combined Grounding DINO for text-prompted bounding boxes and Segment Anything Model (SAM) for sub-pixel mask generation",
+        "Integrated YOLOv8 for real-time bounding box tracking across historical advertisement video streams",
+        "Reduced manual bounding-box annotation time by 80% for object retrieval datasets"
+      ],
+      "technologies": [
+        "PyTorch",
+        "OpenCV",
+        "YOLOv8",
+        "Segment Anything (SAM)",
+        "Grounding DINO",
+        "Python"
+      ],
+      "status": "case-study",
+      "linkLabel": "Academic research",
+      "links": {
+        "demo": null,
+        "github": null
+      }
+    },
+    {
+      "id": "vocab-pwa",
+      "title": "Vocab - Offline-First Vocabulary PWA",
+      "category": "Open Source Web App",
+      "featured": false,
+      "description": "An offline-first vocabulary learning Progressive Web App designed with spaced repetition algorithms and responsive gesture navigation.",
+      "highlights": [
+        "Offline persistence and state synchronization using IndexedDB",
+        "Fast, gesture-driven mobile UI built in React with service worker caching"
+      ],
+      "technologies": [
+        "React",
+        "IndexedDB",
+        "PWA",
+        "JavaScript",
+        "Service Workers"
+      ],
+      "status": "public",
+      "links": {
+        "demo": null,
+        "github": "https://github.com/vistej/vocab"
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Intelligent Systems Engineering",
+      "specialization": "Artificial Intelligence & Machine Learning (AI/ML)",
+      "institution": "Indiana University Bloomington",
+      "location": "Bloomington, IN",
+      "period": "Jan 2023 - Dec 2024",
+      "coursework": [
+        "Applied Algorithms",
+        "Computer Vision",
+        "Applied Machine Learning",
+        "Deep Learning Systems"
+      ],
+      "thesisProjects": [
+        "Multimodal VQA RAG Chatbot (CLIP + FAISS)",
+        "Ad Annotations Video Segmentation Pipeline (SAM + YOLOv8)"
+      ]
+    }
+  ]
+}
